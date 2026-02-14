@@ -1,0 +1,10 @@
+# executáveis comuns
+*.exe
+*.out
+*.o
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+.DS_Store
